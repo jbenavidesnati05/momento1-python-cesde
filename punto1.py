@@ -7,7 +7,7 @@ print()
 while opcion != 0:
     print()
     print()
-    print("*********** LISTA DE SUPERMERCADO ***********")
+    print("*********** LISTA DE CICLISTAS ***********")
     print()
     print("Opcion 1 = Ingresar una ciclista")
     print("Opcion 2 = Mostrar todos los ciclistas")
